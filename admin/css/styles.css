@@ -1,0 +1,17 @@
+.wpcf7-repeater-actions {
+  border-top: 1px dashed #ddd;
+  padding-top: 10px;
+  margin-top: 15px;
+}.wpcf7-repeater-item{
+      border-top: 1px dashed #ddd;
+    margin-top: 15px;
+    padding-top: 15px;
+}.wpcf7-repeater-unlock{
+      padding: 15px;
+    background: #EDF2D9;
+    box-sizing: border-box;
+    margin-top: 15px;
+    border-radius: 5px;
+}.wpcf7-repeater-unlock a.button{
+  float:right;
+}
